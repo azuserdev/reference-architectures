@@ -1,13 +1,11 @@
 param (
-    [Parameter(Mandatory=$true,
-    ParameterSetName='P@$$w0rd!#')]
+    [Parameter()]
     [String]
-    $replaceWithPassword,
+    $replaceWithPassword='P@$$w0rd!#',
 
-    [Parameter(Mandatory=$true,
-    ParameterSetName='segmentation')]
-    [String[]]
-    $rgname
+    [Parameter()]
+    [String]
+    $rgname='segmentation'
 )
 #スクリプトが存在するフォルダへ移動
 Set-Location $PSScriptRoot
