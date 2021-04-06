@@ -325,3 +325,23 @@ buildNumber.properties
 
 # This is to ignore IntelliJ project files, since we use Maven
 *.iml
+virtual-machines/n-tier-windows/replaced-n-tier-windows-script.ps1
+virtual-machines/n-tier-windows/replaced-n-tier-windows.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-01.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-02.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-script.sh
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-03.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-04.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-05.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-06.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-07.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-08.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-output-09.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-output-01.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-output-02.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-output-03.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-output-04.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-output-05.json
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-script.ps1
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao-script.sh
+virtual-machines/n-tier-windows/replaced-n-tier-windows-sqlao.json
